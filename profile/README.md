@@ -10,7 +10,7 @@ Bem-vindo ao espaço oficial dos estudantes e desenvolvedores do **IFSP - Campus
 
 ## 🏫 Sobre a Instituição
 
-O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) é uma instituição pública federal de ensino, reconhecida pela excelência na oferta de educação profissional, técnica e superior. O **Campus Jacareí** tem como compromisso formar profissionais altamente capacitados, unindo a teoria acadêmica à prática tecnológica, sempre com foco em inovação, impacto social e desenvolvimento regional.
+O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP - Campus Jacareí) é uma instituição pública federal de ensino, reconhecida pela excelência na oferta de educação profissional, técnica e superior. O **Campus Jacareí** tem como compromisso formar profissionais altamente capacitados, unindo a teoria acadêmica à prática tecnológica, sempre com foco em inovação, impacto social e desenvolvimento regional.
 
 ## 🎯 Nosso Objetivo no GitHub
 
@@ -36,6 +36,22 @@ Para mantermos nossa organização limpa, profissional e fácil de navegar, pedi
 4. **.gitignore:** Não suba arquivos de configuração local, chaves de API (`.env`) ou pastas de dependências (como `node_modules` ou `venv`).
 
 ## 🔗 Links Úteis
+## 📫 How to Find Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/school/ifspjcr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <a href="mailto:gdepaulabaroni@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <a href="https://www.instagram.com/ifspjcr/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
+</p>
 
 * [Site Oficial do IFSP Jacareí](https://jcq.ifsp.edu.br/)
 * [Instagram Oficial](https://www.instagram.com/ifspjacarei/)
