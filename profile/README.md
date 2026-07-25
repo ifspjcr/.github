@@ -30,7 +30,6 @@ Para mantermos nossa organização limpa, profissional e fácil de navegar, pedi
 2. **README.md Obrigatório:** Todo repositório deve ter um README próprio contendo:
    * O que é o projeto.
    * Tecnologias utilizadas.
-   * Como rodar o projeto localmente.
    * Nomes dos alunos envolvidos (com links para seus perfis do GitHub) e do professor orientador.
 3. **Licenciamento:** Incentivamos o uso de licenças abertas (como MIT ou Apache 2.0) para que outros possam aprender com o seu código.
 4. **.gitignore:** Não suba arquivos de configuração local, chaves de API (`.env`) ou pastas de dependências (como `node_modules` ou `venv`).
