@@ -36,25 +36,23 @@ Para mantermos nossa organização limpa, profissional e fácil de navegar, pedi
 4. **.gitignore:** Não suba arquivos de configuração local, chaves de API (`.env`) ou pastas de dependências (como `node_modules` ou `venv`).
 
 ## 🔗 Links Úteis
-## 📫 How to Find Me
-
-<p align="center">
+<p align="center" >
   <a href="https://www.linkedin.com/school/ifspjcr/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  <a href="mailto:gdepaulabaroni@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ifspjcr" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="50" alt="YouTube do Projeto" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/ifspjcr/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://jcr.ifsp.edu.br" target="_blank">
+    <img src="https://skillicons.dev/icons?i=htmx" />
+  </a>
 </p>
-
-* [Site Oficial do IFSP Jacareí](https://jcq.ifsp.edu.br/)
-* [Instagram Oficial](https://www.instagram.com/ifspjacarei/)
 
 ---
 *Organização mantida de forma colaborativa pelos estudantes e professores do IFSP - Campus Jacareí. Sinta-se em casa e bons códigos!* 💻✨
