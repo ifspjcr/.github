@@ -4,7 +4,7 @@
 
 </p> 
 
-# 🎓 Instituto Federal de São Paulo (IFSP) - Campus Jacareí
+# 🎓 Instituto Federal de São Paulo (IFSP - Campus Jacareí) 
 
 Bem-vindo ao espaço oficial dos estudantes e desenvolvedores do **IFSP - Campus Jacareí** no GitHub! 
 
